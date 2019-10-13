@@ -1,3 +1,5 @@
+#This code was written by Calum McConville for the thesis titled 'Master the Commander (Complex)'
+
 # load libraries
 library("tidyverse")
 library("psych")
